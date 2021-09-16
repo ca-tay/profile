@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Taabannn
+- 👋 Hi, I’m Taban Soleymani.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning java.
 - 📫 How to reach me : taabannnsly@gmail.com
