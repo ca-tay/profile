@@ -1,7 +1,7 @@
- 👋 Hi, I’m Taban Soleymani.
- 👀 I’m interested in programming.
- 🌱 I’m currently learning java.
- 📫 How to reach me : taabannnsly@gmail.com
+ - 👋 Hi, I’m Taban Soleymani.
+ - 👀 I’m interested in programming.
+ - 🌱 I’m currently learning java.
+ - 📫 How to reach me : taabannnsly@gmail.com
  [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=taabannn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
