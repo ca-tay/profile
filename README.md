@@ -1,13 +1,11 @@
  - 👋 Hi, I’m Taban Soleymani.
  - 👀 I’m interested in programming.
- - 🌱 I’m currently learning java.
+ - 🌱 I’m currently learning java and python.
  - 📫 How to reach me : taabannnsly@gmail.com
- - 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taabannn)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taabannn&show_icons=true&theme=radical)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taabannn&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taabannn&theme=radical)
 
 <!---
 Taabannn/Taabannn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
