@@ -3,7 +3,8 @@
  - 🌱 I’m currently learning java.
  - 📫 How to reach me : taabannnsly@gmail.com
  - 
- ![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=taabannn&show_icons=true)
+ ![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=taabannn&show_icons=true&theme=tokyonight)
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taabannn&theme=tokyonight)
 
 <!---
