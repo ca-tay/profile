@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=ff69b4)
 </em></p>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code&color=ff69b4)
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taabannn&show_icons=true&theme=radical)
  
