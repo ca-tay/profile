@@ -1,9 +1,9 @@
- - 👋 Hi, I’m Taban Soleymani.
- - 👀 I’m interested in programming.
- - 🌱 I’m currently learning java and python.
- - 📫 How to reach me : taabannnsly@gmail.com
+ 👋 Hi, I’m Taban Soleymani.
+ 
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p> I’m interested in programming and I’m currently learning java and python.
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
 </em></p>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taabannn&show_icons=true&theme=radical)
