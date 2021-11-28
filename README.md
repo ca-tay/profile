@@ -3,7 +3,8 @@
  - 🌱 I’m currently learning java and python.
  - 📫 How to reach me : taabannnsly@gmail.com
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taabannn&show_icons=true&theme=radical)
  
