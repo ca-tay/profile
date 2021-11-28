@@ -38,7 +38,7 @@
   <img align="center" alt="Taban Soleymani | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:tabansly78@gmail.com" >
-  <img align="center" alt="Taban Soleymani | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <img align="center" alt="Taban Soleymani | Gmail" width="26px" src="https://img.icons8.com/color/50/000000/gmail-new.png" />
 </a> &nbsp;&nbsp;
 <p>
 
