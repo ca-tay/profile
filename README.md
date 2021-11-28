@@ -31,7 +31,7 @@
 
 <br>
 <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
+  <h3><b>Contact with Me</b></h3>
   </div>
 <p align="center">
 <a href="https://www.instagram.com/taabannn/" target="_blank">
