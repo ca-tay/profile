@@ -17,6 +17,18 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taabannn&theme=radical)
 
+<div align="center">
+  <h3><b>😄 Can Connect With Me On</b></h3>
+  </div>
+<p align="center">
+<a href="https://www.instagram.com/taabannn/" target="_blank">
+  <img align="center" alt="Taban Soleymani | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:tabansly78@gmail.com" >
+  <img align="center" alt="Taban Soleymani | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<p>
+
 <!---
 Taabannn/Taabannn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
