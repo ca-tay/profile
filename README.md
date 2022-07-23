@@ -6,7 +6,8 @@
 
 - 🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">University of Tehran </a>
 - 📚 &nbsp; Studying M.Sc of Communication Networks at <a href="https://ut.ac.ir/en">University of Tehran </a>
-- 👑 &nbsp; Interested in machine learning and convex optimization
+- 👑 &nbsp; Junior Java Back-end Dveloper
+- 🤔 &nbsp; Interested in Machine Learning and Optimization
 
 <img align='right' src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" alt="programmer cat" width="300">
 
