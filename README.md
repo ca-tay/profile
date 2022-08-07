@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm Taban Soleymani
-![](https://komarev.com/ghpvc/?username=your-taabann&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
 <table>
   <tr>
     <td>
