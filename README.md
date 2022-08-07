@@ -9,8 +9,6 @@
 - 👑 &nbsp; Junior Java Back-end Developer
 - 🤔 &nbsp; Interested in Machine Learning and Optimization
 
-<img align='right' src="programmer-cat.gif" alt="programmer cat" width="300">
-
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=ff69b4)
 
  <p align="center">
