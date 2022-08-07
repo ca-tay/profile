@@ -2,6 +2,12 @@
 
 ## I'm Taban Soleymani
 
+ <p align="center">
+<a href="https://github.com/Taabannn">
+  <img height="180em" src="programmer-cat.gif"/>
+</a>
+</p>
+ 
 ### 💻 &nbsp;About Me 
 
 - 🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">University of Tehran </a>
@@ -13,8 +19,8 @@
 
  <p align="center">
 <a href="https://github.com/Taabannn">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Taabannn&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Taabannn&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
  
