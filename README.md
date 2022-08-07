@@ -2,9 +2,9 @@
 
 ## I'm Taban Soleymani
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
-<table>
+<table width="100%">
   <tr>
-    <td  width="60%">
+    <td width="60%">
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
         <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li>
