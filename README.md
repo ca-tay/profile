@@ -4,7 +4,7 @@
 
  <p align="center">
 <a href="https://github.com/Taabannn">
-  <img height="180em" src="programmer-cat.gif"/>
+  <img height="400em" src="images/java-python-developer.png"/>
 </a>
 </p>
  
@@ -12,7 +12,7 @@
 
 - 🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">University of Tehran </a>
 - 📚 &nbsp; Studying M.Sc of Communication Networks at <a href="https://ut.ac.ir/en">University of Tehran </a>
-- 👑 &nbsp; Junior Java Back-end Developer
+- 👑 &nbsp; Junior Java Back-end Developer 
 - 🤔 &nbsp; Interested in Machine Learning and Optimization
 
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=ff69b4)
@@ -50,6 +50,9 @@
 </a> &nbsp;&nbsp;
  <a href="https://join.skype.com/invite/oJPb3eoBcLa3" >
   <img align="center" alt="Taban Soleymani | Skype" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
+</a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/TabanSoleymani/" >
+  <img align="center" alt="Taban Soleymani | LinkedIn" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
 </a> &nbsp;&nbsp;
 <p>
 
