@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 ## I'm Taban Soleymani
-
- <p align="center">
-<a href="https://github.com/Taabannn">
-  <img height="400em" src="images/java-python-developer.png"/>
-</a>
+<p align="center">
+ <a href="https://github.com/Taabannn">
+   <img height="400em" src="images/java-python-developer.png"/>
+ </a>
 </p>
  
 ### 💻 &nbsp;About Me 
