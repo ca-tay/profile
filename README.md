@@ -12,11 +12,12 @@
 <img align='right' src="programmer-cat.gif" alt="programmer cat" width="300">
 
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=ff69b4)
-</em></p>
+
  <p align="center">
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taabannn&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taabannn&theme=radical)
+<a href="https://github.com/Taabannn">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Taabannn&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
  
 
