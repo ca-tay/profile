@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <h3> 💻 &nbsp;About Me </h3>
+      <h2> 💻 &nbsp;About Me </h2>
        <ul>
         <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li>
         <li>📚 &nbsp; Studying M.Sc of Communication Networks at <a href="https://ut.ac.ir/en">UT</a></li>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
    <td>
-     <h3> 🛠 &nbsp;Tech Stack</h3>
+     <h2> 🛠 &nbsp;Tech Stack</h2>
      <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
      <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
      <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
