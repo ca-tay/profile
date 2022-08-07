@@ -1,28 +1,44 @@
 ### Hi there 👋
 
 ## I'm Taban Soleymani
-<p align="center">
- <a href="https://github.com/Taabannn">
-   <img height="400em" src="images/java-python-developer.png"/>
- </a>
-</p>
- 
-### 💻 &nbsp;About Me 
-
-- 🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">University of Tehran </a>
-- 📚 &nbsp; Studying M.Sc of Communication Networks at <a href="https://ut.ac.ir/en">University of Tehran </a>
-- 👑 &nbsp; Junior Java Back-end Developer 
-- 🤔 &nbsp; Interested in Machine Learning and Optimization
-
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=ff69b4)
-
- <p align="center">
-<a href="https://github.com/Taabannn">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Taabannn&layout=compact&langs_count=8&theme=radical"/>
-</a>
-</p>
- 
+<table>
+  <tr>
+    <td>
+      <h3> 💻 &nbsp;About Me </h3>
+       <ul>
+        <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">University of Tehran </a></li>
+        <li>📚 &nbsp; Studying M.Sc of Communication Networks at <a href="https://ut.ac.ir/en">University of Tehran </a></li>
+        <li>👑 &nbsp; Junior Java Back-end Developer </li>
+        <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
+       </ul>
+       <p align="center">
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <br>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Taabannn&layout=compact&langs_count=8&theme=algolia"/>
+       </p>
+    </td>
+    <td>
+     <p align="center">
+      <a href="https://github.com/Taabannn">
+       <img height="360em" src="images/java-python-developer.png"/>
+      </a>
+     </p>
+    </td>
+  </tr>
+  <tr>
+   <td>
+    <h3> 🛠 &nbsp;Tech Stack</h3>
+   </td>
+   <td>
+    <p align="center">
+      <a href="https://github.com/Taabannn">
+       <img height="250em" src="images/programmer-cat.gif"/>
+      </a>
+     </p>
+   </td>
+  </tr>
+</table>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
