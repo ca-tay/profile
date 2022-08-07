@@ -39,22 +39,22 @@
 
 <br>
 <div align="center">
-  <h3><b>Contact Me</b></h3>
-  </div>
-<p align="center">
-<a href="https://www.instagram.com/taabannn/" target="_blank">
-  <img align="center" alt="Taban Soleymani | Instagram" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
-</a> &nbsp;&nbsp;
-<a href="mailto:tabansly78@gmail.com" >
-  <img align="center" alt="Taban Soleymani | Gmail" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
-</a> &nbsp;&nbsp;
+  <h2><b>How to Reach Me</b></h2>
+ <p>Please don't hesitate to contact me if you need further information or help.</p>
+ <a href="https://www.instagram.com/taabannn/" target="_blank">
+   <img align="center" alt="Taban Soleymani | Instagram" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
+ </a> &nbsp;&nbsp;
+ <a href="mailto:tabansly78@gmail.com" >
+   <img align="center" alt="Taban Soleymani | Gmail" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+ </a> &nbsp;&nbsp;
  <a href="https://join.skype.com/invite/oJPb3eoBcLa3" >
-  <img align="center" alt="Taban Soleymani | Skype" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
-</a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/TabanSoleymani/" >
-  <img align="center" alt="Taban Soleymani | LinkedIn" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
-</a> &nbsp;&nbsp;
-<p>
+   <img align="center" alt="Taban Soleymani | Skype" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
+ </a> &nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/TabanSoleymani/" >
+   <img align="center" alt="Taban Soleymani | LinkedIn" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
+ </a> &nbsp;&nbsp;
+</div>
+
 
 <!---
 Taabannn/Taabannn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
