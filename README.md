@@ -2,9 +2,9 @@
 
 ## I'm Taban Soleymani
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="60%">
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
         <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li>
@@ -17,16 +17,16 @@
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </p>
     </td>
-    <td>
+    <td width="40%">
      <p align="center">
       <a href="https://github.com/Taabannn">
-       <img height="360em" src="images/java-python-developer.png"/>
+       <img src="images/java-python-developer.png"/>
       </a>
      </p>
     </td>
   </tr>
   <tr>
-   <td>
+   <td width="60%">
      <h2> 🛠 &nbsp;Tech Stack</h2>
      <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
      <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
@@ -63,7 +63,7 @@
      <img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter"/>
      <img src="https://img.shields.io/badge/-Google Colab-05122A?style=flat&logo=googlecolab"/>
    </td>
-   <td>
+   <td width="40%">
     <div align="center">
       <h2><b>How to Reach Me</b></h2>
       <br>
