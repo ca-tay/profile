@@ -14,9 +14,9 @@
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=ff69b4)
 </em></p>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taabannn&show_icons=true&theme=light)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taabannn&show_icons=true&theme=radical)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taabannn&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taabannn&theme=radical)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
