@@ -43,7 +43,7 @@
   </div>
 <p align="center">
 <a href="https://www.instagram.com/taabannn/" target="_blank">
-  <img align="center" alt="Taban Soleymani | Instagram" width="24px" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
+  <img align="center" alt="Taban Soleymani | Instagram" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
 </a> &nbsp;&nbsp;
 <a href="mailto:tabansly78@gmail.com" >
   <img align="center" alt="Taban Soleymani | Gmail" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
