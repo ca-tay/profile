@@ -40,9 +40,10 @@
      <br>
      <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3"/>
      <img src="https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=matlab"/>
-     <img src="https://img.shields.io/badge/-jupyter-05122A?style=flat&logo=jupyter"/>
-     <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
      <img src="https://img.shields.io/badge/-Octave-05122A?style=flat&logo=octave"/>
+     <img src="https://img.shields.io/badge/-jupyter-05122A?style=flat&logo=jupyter"/>
+     <img src="https://img.shields.io/badge/-colab-05122A?style=flat&logo=googlecolab"/>
+     <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
      <br>
      <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
      <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
