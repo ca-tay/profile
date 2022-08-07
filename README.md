@@ -13,10 +13,10 @@
         <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
        </ul>
        <p align="center">
+         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Taabannn&layout=compact&langs_count=8&theme=algolia"/>
+         <br>
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Taabannn&layout=compact&langs_count=8&theme=algolia"/>
-       </p>
+        </p>
     </td>
     <td>
      <p align="center">
@@ -31,11 +31,24 @@
     <h3> 🛠 &nbsp;Tech Stack</h3>
    </td>
    <td>
-    <p align="center">
-      <a href="https://github.com/Taabannn">
-       <img height="250em" src="images/programmer-cat.gif"/>
-      </a>
-     </p>
+    <div align="center">
+      <h2><b>How to Reach Me</b></h2>
+      <p>Please don't hesitate to contact me 
+        <br>if you need further information or help.
+      </p>
+      <a href="https://www.instagram.com/taabannn/" target="_blank">
+      <img align="center" alt="Taban Soleymani | Instagram" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
+      </a> &nbsp;&nbsp;
+      <a href="mailto:tabansly78@gmail.com" >
+      <img align="center" alt="Taban Soleymani | Gmail" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+      </a> &nbsp;&nbsp;
+      <a href="https://join.skype.com/invite/oJPb3eoBcLa3" >
+      <img align="center" alt="Taban Soleymani | Skype" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
+      </a> &nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/TabanSoleymani/" >
+      <img align="center" alt="Taban Soleymani | LinkedIn" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
+      </a> &nbsp;&nbsp;
+    </div>
    </td>
   </tr>
 </table>
@@ -51,25 +64,6 @@
   <img src="https://camo.githubusercontent.com/42acc7ee3a18313a065e672e0835729edf3361dedb045d6c3cf8821fe30a1c2d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697426636f6c6f723d463035303332266c6f676f3d476974266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="git"/> <img src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="github"/>
 
 - 🔧 &nbsp;<img src="https://camo.githubusercontent.com/99731e54090b73c687a70d0f60399fa5f9e1a64580a06df6ebaf1daff6c38c64/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d496e74656c6c694a2b4944454126636f6c6f723d303030303030266c6f676f3d496e74656c6c694a2b49444541266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Intellij IDEA"/> <img src="https://camo.githubusercontent.com/333efdf3d52583cf7c536e5364439a833bb89c25afffbb42550c2bf0ce260827/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d56697375616c2b53747564696f2b436f646526636f6c6f723d303037414343266c6f676f3d56697375616c2b53747564696f2b436f6465266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="VS code"/> <img src="https://camo.githubusercontent.com/5d18d553cf0ef27b77cf1255045658a0c5595fdb8e3fff7695a902f8891e46ea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5079436861726d26636f6c6f723d303030303030266c6f676f3d5079436861726d266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="PyCharm"/> <img src="https://camo.githubusercontent.com/b7603157c0778e9255eb412fe2ad216ae67e2ea860e015d60d4dcda078f7fd5f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5375626c696d652b5465787426636f6c6f723d323232323232266c6f676f3d5375626c696d652b54657874266c6f676f436f6c6f723d464639383030266c6162656c3d" alt="sublime text"/> <img src="https://camo.githubusercontent.com/9e4babaf978c80dcc79ab178402cfc74f85c5bb42d7ade4da6e3bfc17b83e733/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d434c696f6e26636f6c6f723d303030303030266c6f676f3d434c696f6e266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="CLion"/>
-
-<br>
-<div align="center">
-  <h2><b>How to Reach Me</b></h2>
- <p>Please don't hesitate to contact me if you need further information or help.</p>
- <a href="https://www.instagram.com/taabannn/" target="_blank">
-   <img align="center" alt="Taban Soleymani | Instagram" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
- </a> &nbsp;&nbsp;
- <a href="mailto:tabansly78@gmail.com" >
-   <img align="center" alt="Taban Soleymani | Gmail" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
- </a> &nbsp;&nbsp;
- <a href="https://join.skype.com/invite/oJPb3eoBcLa3" >
-   <img align="center" alt="Taban Soleymani | Skype" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
- </a> &nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/TabanSoleymani/" >
-   <img align="center" alt="Taban Soleymani | LinkedIn" width="26px" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
- </a> &nbsp;&nbsp;
-</div>
-
 
 <!---
 Taabannn/Taabannn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
