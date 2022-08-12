@@ -4,13 +4,15 @@
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
 <table width="100%">
   <tr>
-    <td width="60%">
+    <td width="55%">
       <h2> 💻 &nbsp;About Me </h2>
       <blockquote>
         <p> 
-            I'm an Electrical Engineer. Currently, learning python, and here 
+          I'm an Electrical Engineer. Currently, learning python, 
           <br>
-          I share the repositories of my hands-on and course projects.
+          and here I share the repositories of my hands-on and 
+          <br>
+          course projects.
         </p>
       </blockquote> 
        <br>
@@ -25,7 +27,7 @@
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </p>
     </td>
-    <td width="40%">
+    <td width="45%">
      <p align="center">
       <a href="https://github.com/Taabannn">
        <img src="images/java-python-developer.png"/>
@@ -34,7 +36,7 @@
     </td>
   </tr>
   <tr>
-   <td width="60%">
+   <td width="55%">
      <h2> 🛠 &nbsp;Tech Stack</h2>
      <ul>
       <li>
@@ -81,7 +83,7 @@
       </li>
      </ul>
    </td>
-   <td width="40%">
+   <td width="45%">
     <div align="center">
       <h2><b>How to Reach Me</b></h2>
       <br>
@@ -92,7 +94,7 @@
       <a href="https://www.instagram.com/taabannn/" target="_blank">
       <img align="center" alt="Taban Soleymani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
       </a> &nbsp;&nbsp;
-      <a href="mailto:tabansly78@gmail.com" >
+      <a href="mailto:taabansoleymani@gmail.com" >
       <img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
       </a> &nbsp;&nbsp;
       <a href="https://join.skype.com/invite/oJPb3eoBcLa3" >
