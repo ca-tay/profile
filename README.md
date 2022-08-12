@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
 <table width="100%">
   <tr>
-    <td width="55%">
+    <td width="60%">
       <h2> 💻 &nbsp;About Me </h2>
       <blockquote>
         <p> 
@@ -27,7 +27,7 @@
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </p>
     </td>
-    <td width="45%">
+    <td width="40%">
      <p align="center">
       <a href="https://github.com/Taabannn">
        <img src="images/java-python-developer.png"/>
@@ -36,7 +36,7 @@
     </td>
   </tr>
   <tr>
-   <td width="55%">
+   <td width="60%">
      <h2> 🛠 &nbsp;Tech Stack</h2>
      <ul>
       <li>
@@ -83,7 +83,7 @@
       </li>
      </ul>
    </td>
-   <td width="45%">
+   <td width="40%">
     <div align="center">
       <h2><b>How to Reach Me</b></h2>
       <br>
