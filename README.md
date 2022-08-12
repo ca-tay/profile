@@ -6,10 +6,18 @@
   <tr>
     <td width="60%">
       <h2> 💻 &nbsp;About Me </h2>
+      <blockquote>
+        <p> 
+            I'm an Electrical Engineer. Currently, learning python, and here 
+          <br>
+          I share the repositories of my hands-on and course projects.
+        </p>
+      </blockquote> 
+       <br>
        <ul>
         <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li>
         <li>📚 &nbsp; Studying M.Sc of Communication Networks at <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>👑 &nbsp; Junior Java Back-end Developer </li>
+        <li>👩‍💻 &nbsp; Junior Java Back-end Developer </li>
         <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
        </ul>
        <p align="center">
