@@ -6,13 +6,18 @@
   <tr>
     <td width="55%">
       <h2> 💻 &nbsp;About Me </h2>
+      <br>
       <blockquote>
         <p> 
-          I'm an Electrical Engineer. Currently, learning python, 
+          I majored in electrical engineering (Thesis Title: "Designing
           <br>
-          and here I share the repositories of my hands-on and 
+          IoT Network Simulator Based on MQTT Protocol"), and my 
           <br>
-          course projects.
+          research is focused on edge-caching in IoT networks. 
+          <br>
+          Currently, learning python, and here I share my hands-on  
+          <br>
+          and course projects repositories.
         </p>
       </blockquote> 
        <ul>
