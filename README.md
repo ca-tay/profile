@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
 <table width="100%">
   <tr>
-    <td width="60%">
+    <td width="55%">
       <h2> 💻 &nbsp;About Me </h2>
       <blockquote>
         <p> 
@@ -22,7 +22,7 @@
         <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
        </ul>
     </td>
-    <td width="40%">
+    <td width="45%">
      <p align="center">
       <a href="https://github.com/Taabannn">
        <img src="images/java-python-developer.png"/>
@@ -31,21 +31,21 @@
     </td>
   </tr>
   <tr>
-    <td width="60%">
+    <td width="55%">
       <p align="center">
         <br>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
       </p>
     </td>
-    <td width="40%">
+    <td width="45%">
       <p align="center">
         <br>
-        <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taabannn&theme=algolia"/>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taabannn&theme=algolia&layout=compact"/>
       </p>
     </td>
   </tr>
   <tr>
-   <td width="60%">
+   <td width="55%">
      <h2> 🛠 &nbsp;Tech Stack</h2>
      <ul>
       <li>
@@ -92,7 +92,7 @@
       </li>
      </ul>
    </td>
-   <td width="40%">
+   <td width="45%">
     <div align="center">
       <h2><b>How to Reach Me</b></h2>
       <br>
