@@ -21,10 +21,6 @@
         <li>👩‍💻 &nbsp; Junior Java Back-end Developer </li>
         <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
        </ul>
-       <p align="center">
-         <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        </p>
     </td>
     <td width="40%">
      <p align="center">
@@ -32,6 +28,20 @@
        <img src="images/java-python-developer.png"/>
       </a>
      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="60%">
+      <p align="center">
+        <br>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      </p>
+    </td>
+    <td width="40%">
+      <p align="center">
+        <br>
+        <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taabannn&theme=algolia"/>
+      </p>
     </td>
   </tr>
   <tr>
