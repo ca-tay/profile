@@ -17,7 +17,7 @@
           <br>
           Currently, learning python, and here I share my hands-on  
           <br>
-          and course projects repositories.
+          and course project repositories.
         </p>
       </blockquote> 
        <ul>
