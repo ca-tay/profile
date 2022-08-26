@@ -2,6 +2,13 @@
 
 ## I'm Taban Soleymani
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
+<!---
+<p align="center">
+  <a href="https://github.com/Taabannn">
+    <kbd><img height="200em" width="200em" src="images/me.svg" alt="me"/></kbd>
+  </a>
+</p>
+--->
 <table width="100%">
   <tr>
     <td width="55%">
@@ -117,6 +124,9 @@
       </a> &nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/TabanSoleymani/" >
       <img align="center" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
+      </a> &nbsp;&nbsp;
+      <a href="https://www.pinterest.com/tabansly78/" >
+      <img align="center" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/pinterest.png" />
       </a> &nbsp;&nbsp;
       <br>
     </div>
