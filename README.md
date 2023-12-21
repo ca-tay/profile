@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi
 
-## I'm Taban Soleymani
+## I'm Bongo
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
 <!---
 <p align="center">
-  <a href="https://github.com/Taabannn">
+  <a href="https://github.com/ca-tay">
     <kbd><img height="200em" width="200em" src="images/me.svg" alt="me"/></kbd>
   </a>
 </p>
