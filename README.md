@@ -16,28 +16,19 @@
       <br>
       <blockquote>
         <p> 
-          I majored in electrical engineering (Thesis Title: "Designing
-          <br>
-          IoT Network Simulator Based on MQTT Protocol"), and my 
-          <br>
-          research is focused on edge-caching in IoT networks. 
-          <br>
-          Currently, learning python, and here I share my hands-on  
-          <br>
-          and course project repositories.
+          I love hanging out & playing sports. I run track, do powerlifting, and play basketball!
+          Although I'm not a very techy person I enjoy the wonders of coding.
         </p>
       </blockquote>
        <ul>
-        <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>📚 &nbsp; Studying M.Sc of Communication Networks at <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>👩‍💻 &nbsp; Junior Java Back-end Developer </li>
-        <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
+        <li>👩‍💻 &nbsp; 2 years of backend developer & android development </li>
+        <li>🤔 &nbsp; Interested in memory manipulation </li>
        </ul>
        <br>
     </td>
     <td width="45%">
      <p align="center">
-      <a href="https://github.com/Taabannn">
+      <a href="https://github.com/ca-tay">
        <img src="images/java-python-developer.png"/>
       </a>
      </p>
@@ -47,13 +38,13 @@
     <td width="55%">
       <p align="center">
         <br>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ca-tay&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
       </p>
     </td>
     <td width="45%">
       <p align="center">
         <br>
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taabannn&theme=light&layout=compact"/>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca-tay&theme=light&layout=compact"/>
       </p>
     </td>
   </tr>
@@ -113,20 +104,8 @@
         <br>if you need further information or help.
       </p>
       <br>
-      <a href="https://www.instagram.com/taabannn/" target="_blank">
-      <img align="center" alt="Taban Soleymani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
-      </a> &nbsp;&nbsp;
-      <a href="mailto:taabansoleymani@gmail.com" >
-      <img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
-      </a> &nbsp;&nbsp;
-      <a href="https://join.skype.com/invite/oJPb3eoBcLa3" >
-      <img align="center" alt="Taban Soleymani | Skype" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
-      </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/TabanSoleymani/" >
-      <img align="center" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
-      </a> &nbsp;&nbsp;
-      <a href="https://www.pinterest.com/tabansly78/" >
-      <img align="center" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/pinterest.png" />
+      <a href="https://discord.com" target="_blank">
+      <img align="center" alt="User | ov.h" width="30em" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" />
       </a> &nbsp;&nbsp;
       <br>
     </div>
@@ -134,8 +113,4 @@
   </tr>
 </table>
 
-<!---
-Taabannn/Taabannn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
