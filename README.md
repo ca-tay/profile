@@ -84,7 +84,7 @@
         <br>if you need further information or help.
       </p>
       <br>
-      <a href="[https://discord.com](https://discord.gg/fGGgnYAdRt)" target="_blank">
+      <a href="https://discord.gg/fGGgnYAdRt" target="_blank">
       <img align="center" alt="User | ov.h" width="30em" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" />
       </a> &nbsp;&nbsp;
       <br>
