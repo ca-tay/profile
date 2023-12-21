@@ -1,7 +1,7 @@
 ### Hi
 
 ## I'm Bongo
-![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
+![](https://komarev.com/ghpvc/?username=your-ca-tay&color=0069b4)
 <!---
 <p align="center">
   <a href="https://github.com/ca-tay">
@@ -29,7 +29,7 @@
     <td width="45%">
      <p align="center">
       <a href="https://github.com/ca-tay">
-       <img src="images/java-python-developer.png"/>
+       <img src="https://hacks.mozilla.org/files/2018/03/01_rust_loves_js.png"/>
       </a>
      </p>
     </td>
